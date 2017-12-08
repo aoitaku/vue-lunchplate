@@ -1,8 +1,9 @@
-# webpack-simple
+# vue-lunchplate
+English / [日本語](README.ja.md)
 
-> A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to wait for an official 2.0 webpack template.
+> A Vue 2.0 Webpack and `vue-loader` setup with TypeScript, class-style Vue components, and Element UI for quick prototyping.
 
-> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init webpack-simple#1.0 my-project`
+> This template is for Vue 2.0.
 
 ### Usage
 
@@ -10,7 +11,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init webpack-simple my-project
+$ vue init aoitaku/vue-lunchplate my-project
 $ cd my-project
 $ npm install
 $ npm run dev
